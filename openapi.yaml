@@ -8,7 +8,10 @@ info:
 
 servers:
   - description: |
-      Промышленная среда.
+      Промышленная среда HTTP
+    url: http://www.mr-group.ru/api
+  - description: |
+      Промышленная среда HTTPS
     url: https://www.mr-group.ru/api
 
 tags:
